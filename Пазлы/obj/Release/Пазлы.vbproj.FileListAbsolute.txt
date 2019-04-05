@@ -1,0 +1,14 @@
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\bin\Release\Собери картинку.exe.config
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\bin\Release\Собери картинку.exe
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\bin\Release\Собери картинку.pdb
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\bin\Release\Собери картинку.xml
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\obj\Release\Пазлы.vbprojAssemblyReference.cache
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\obj\Release\WindowsApplication1.Form2.resources
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\obj\Release\WindowsApplication1.Form3.resources
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\obj\Release\Пазлы.vbproj.GenerateResource.cache
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\obj\Release\Пазлы.vbproj.CoreCompileInputs.cache
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\obj\Release\Собери картинку.exe
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\obj\Release\Собери картинку.xml
+C:\Users\Ада\Desktop\Новая папка (5)\Головоломка\Пазлы\obj\Release\Собери картинку.pdb
